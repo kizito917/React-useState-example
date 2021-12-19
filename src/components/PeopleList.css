@@ -1,0 +1,22 @@
+.person-info__content {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.img {
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: var(--light-shadow);
+}
+
+.person_details {
+    margin-top: -0.5rem;
+}
+
+.person_details h4 {
+    margin-bottom: 0.35rem;
+    font-size: .875rem;
+}
